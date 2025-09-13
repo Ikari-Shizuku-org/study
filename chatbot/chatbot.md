@@ -191,3 +191,4 @@ sequenceDiagram
     Admin->>Blob: ナレッジ追加/更新
     Admin->>Search: インデックス更新
 ```
+
